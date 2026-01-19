@@ -25,7 +25,7 @@
                             <goal>exec</goal>
                         </goals>
                         <configuration>
-                            <executable>python</executable>
+                            
                             <arguments>
                                 <argument>scripts/check_env.py</argument>
                             </arguments>
